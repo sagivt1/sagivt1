@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/sagiv-talker/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://discord.com/users/sagivt1">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
 ### 👨‍💻 About Me
@@ -44,3 +47,4 @@ I am currently pursuing an **M.Sc. in Computer Science**.
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagivt1&layout=compact&theme=radical" alt="Top Languages" />
+
