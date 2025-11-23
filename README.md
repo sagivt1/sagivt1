@@ -46,5 +46,4 @@ I am currently pursuing an **M.Sc. in Computer Science**.
   <img src="https://img.shields.io/badge/Read_My_Academic_Article-Detection_of_Negative_Campaigns-blue?style=for-the-badge&logo=googlescholar&logoColor=white" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagivt1&layout=compact&theme=radical" alt="Top Languages" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagivt1&layout=compact&theme=radical&hide=javascript" alt="Top Languages" />
