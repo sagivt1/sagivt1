@@ -48,6 +48,5 @@ I am currently pursuing an **M.Sc. in Computer Science**.
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sagivt1&show_icons=true&theme=radical" alt="Sagiv's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagivt1&layout=compact&theme=radical&hide=javascript" alt="Top Languages" />
+  <img src="https://sagiv-github-readme-stats.vercel.app/api/top-langs/?username=sagivt1&layout=compact&theme=radical&hide=javascript" alt="Top Languages" />
 </p>
