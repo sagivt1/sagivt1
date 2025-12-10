@@ -37,7 +37,7 @@ I am currently pursuing an **M.Sc. in Computer Science**.
   <br><br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,docker" />
   </a>
 </p>
 
